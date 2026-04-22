@@ -32,3 +32,6 @@ Review the following resources to contribute to the kagent project.
 ## Governance
 
 For the kagent community's governance model, review the [governance doc](https://github.com/kagent-dev/community/blob/main/GOVERNANCE.md).
+
+<!-- membership request -->
+
